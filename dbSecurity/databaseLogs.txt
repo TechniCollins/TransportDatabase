@@ -1,0 +1,66 @@
+2020/03/03 11:03:01pm	Access to the database transportdatabase was granted to root
+2020/03/03 11:03:01pm	Someone requested to log in as driver
+2020/03/03 11:03:08pm	Access to the database transportdatabase was granted to root
+2020/03/03 11:03:08pm	Someone requested to log in as 
+2020/03/03 11:07:04pm	Access to the database transportdatabase was granted to root
+2020/03/03 11:07:04pm	Someone requested to log in as admin
+2020/03/03 11:07:14pm	Access to the database transportdatabase was granted to root
+2020/03/03 11:07:14pm	Someone requested to log in as 
+2020/03/03 11:09:15pm	Access to the database transportdatabase was granted to root
+2020/03/03 11:09:15pm	Someone requested to log in as 
+2020/03/03 11:10:34pm	Access to the database transportdatabase was granted to root
+2020/03/03 11:10:34pm	Someone requested to log in as 
+2020/03/03 11:11:04pm	Access to the database transportdatabase was granted to root
+2020/03/03 11:11:04pm	Someone requested to log in as 
+2020/03/03 11:11:40pm	Access to the database transportdatabase was granted to root
+2020/03/03 11:11:40pm	Someone requested to log in as 
+2020/03/03 11:12:00pm	Access to the database transportdatabase was granted to root
+2020/03/03 11:12:00pm	Someone requested to log in as driver
+2020/03/03 11:12:10pm	Access to the database transportdatabase was granted to root
+2020/03/03 11:12:10pm	Someone requested to log in as admin
+2020/03/03 11:12:14pm	Access to the database transportdatabase was granted to root
+2020/03/03 11:12:14pm	Someone requested to log in as record_keeper
+2020/03/03 11:13:29pm	Access to the database transportdatabase was granted to root
+2020/03/03 11:13:29pm	Someone requested to log in as 
+2020/03/04 03:42:06am	Access to the database transportdatabase was granted to root
+2020/03/04 03:42:08am	Access to the database transportdatabase was granted to root
+2020/03/04 03:42:44am	Access to the database transportdatabase was granted to root
+2020/03/04 03:45:59am	Access to the database transportdatabase was granted to root
+2020/03/04 03:46:01am	Access to the database transportdatabase was granted to root
+2020/03/04 03:46:15am	Access to the database transportdatabase was granted to root
+2020/03/04 03:46:16am	Access to the database transportdatabase was granted to root
+2020/03/05 12:31:17am	Access to the database transportdatabase was granted to root
+2020/03/05 12:31:17am	Someone requested to log in as admin
+2020/03/05 12:31:50am	Access to the database transportdatabase was granted to root
+2020/03/05 12:31:50am	Someone requested to log in as 
+2020/03/05 12:32:08am	Access to the database transportdatabase was granted to root
+2020/03/05 12:32:08am	Someone requested to log in as driver
+2020/03/05 12:32:46am	Access to the database transportdatabase was granted to root
+2020/03/05 12:32:51am	Access to the database transportdatabase was granted to root
+2020/03/05 12:36:50am	Access to the database transportdatabase was granted to root
+2020/03/05 12:36:51am	Access to the database transportdatabase was granted to root
+2020/03/05 12:36:53am	Access to the database transportdatabase was granted to root
+2020/03/05 12:41:12am	Access to the database transportdatabase was granted to root
+2020/03/05 12:41:13am	Access to the database transportdatabase was granted to root
+2020/03/05 12:41:15am	Access to the database transportdatabase was granted to root
+2020/03/05 12:41:16am	Access to the database transportdatabase was granted to root
+2020/03/05 12:42:53am	Access to the database transportdatabase was granted to root
+2020/03/05 12:42:54am	Access to the database transportdatabase was granted to root
+2020/03/05 12:42:56am	Access to the database transportdatabase was granted to root
+2020/03/05 12:42:56am	Access to the database transportdatabase was granted to root
+2020/03/08 10:44:46am	Access to the database transportdatabase was granted to root
+2020/03/08 10:44:46am	Someone requested to log in as driver
+2020/03/15 02:13:27pm	Access to the database transportdatabase was denied to root
+2020/03/15 02:13:27pm	Someone requested to log in as driver
+2020/06/10 10:53:27am	Access to the database transportdatabase was denied to root
+2020/06/10 10:53:27am	Someone requested to log in as driver
+2020/06/10 10:53:42am	Access to the database transportdatabase was denied to root
+2020/06/10 10:53:42am	Someone requested to log in as record_keeper
+2020/06/10 10:53:46am	Access to the database transportdatabase was denied to root
+2020/06/10 10:53:46am	Someone requested to log in as admin
+2020/06/10 11:00:26am	Access to the database transportdatabase was denied to root
+2020/06/10 11:00:26am	Someone requested to log in as admin
+2020/06/10 11:00:32am	Access to the database transportdatabase was denied to root
+2020/06/10 11:00:32am	Someone requested to log in as driver
+2020/06/10 11:13:02am	Access to the database transportdatabase was denied to root
+2020/06/10 11:13:02am	Someone requested to log in as driver
